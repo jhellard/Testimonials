@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Pages](https://jhellard.github.io/Testimonials/)
-- Live Site URL: [GitHub](https://github.com/jhellard/testimonials)
+- Solution URL: [GitHub](https://github.com/jhellard/testimonials)
+- Live Site URL: [GitHub Pages](https://jhellard.github.io/Testimonials/)
 
 ## My process
 
